@@ -1,5 +1,7 @@
 # Dstep23_Project
 Analyzing Connecticut Real Estate Sales: Assessing the Impact of Property Type and Assessment Values on Sales Prices
+
+
 Data Source: The data for this analysis will be obtained from the Office of Policy and Management's real estate sales records, as mandated by Connecticut General Statutes, section 10-261a and 10-261b. The dataset includes information on town, property address, date of sale, property type, sales price, and property assessment. https://catalog.data.gov/dataset/real-estate-sales-2001-2018
 
 The data was accessed through the US Government's open data source from the link provided above.
