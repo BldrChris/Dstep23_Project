@@ -13,9 +13,9 @@ Research Questions:
 "How do sales prices vary across different property types (residential, apartment, commercial, industrial, and vacant land) in Connecticut?"
 "Is there a correlation between property assessment values and actual sales prices for real estate transactions in Connecticut?"
 "What are the trends in real estate sales prices over the years, considering the annual reporting cycle from October 1 to September 30?"
-Are we able to predict the future prices based on the property types?
+
 Objective: The objective of this project is to utilize the real estate sales dataset provided by the Office of Policy and Management in Connecticut to understand the factors influencing property sales prices. By exploring the relationships between property types, assessment values, and sales prices, the analysis aims to provide insights into the Connecticut real estate market and contribute valuable information for potential homebuyers, sellers, and policymakers.
 
-This project aims to provide valuable insights into the Connecticut real estate market, offering a comprehensive understanding of key factors influencing property.
 
-The study may further intend to make similar comaparisons with other neighboring states and provide meaniful insights from the data avaialble.
+
+
